@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm literallyawildhog 👋
 
-<!--
-**literallyawildhog/literallyawildhog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding, open-source projects, and learning reverse engineering. Here you'll find some of the work I've been doing in various languages and frameworks. Let's build something great together!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: [Your Current Project]
+- 🌱 I’m learning: C++, Reverse Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=literallyawildhog&show_icons=true&theme=radical)
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=literallyawildhog&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📚 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=literallyawildhog&layout=compact&theme=radical&hide=html,css)
+
+---
