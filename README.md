@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about coding, open-source projects, and learning reverse engineering. Here you'll find some of the work I've been doing in various languages and frameworks. Let's build something great together!
 
-- 🔭 I’m currently working on: [Your Current Project]
+- 🔭 I’m currently working on: Alysse, FrostWare, MobileBloxV2-REBORN
 - 🌱 I’m learning: C++, Reverse Engineering
 
 
