@@ -2,7 +2,7 @@
 
 Passionate about coding, open-source, and reverse engineering.
 
-- 🔭 Current: Alysse, FrostWare, MobileBloxV2-REBORN
+- 🔭 Current: Alysse, FrostWare
 - 🌱 Learning: C++, Reverse Engineering
 
 ---
