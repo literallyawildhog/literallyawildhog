@@ -10,3 +10,5 @@ Passionate about coding, open-source, and reverse engineering.
 ### 📚 Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=literallyawildhog&layout=compact&theme=radical&hide=html,css)
+
+[![Languages](https://skillicons.dev/icons?i=java,cpp&theme=dark)](https://skillicons.dev)
