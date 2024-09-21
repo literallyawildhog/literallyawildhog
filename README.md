@@ -2,8 +2,10 @@
 
 Passionate about coding, open-source, and reverse engineering.
 
-- 🔭 Current: Alysse, FrostWare
+- 🔭 Current: Alysse
 - 🌱 Learning: C++, Reverse Engineering
+
+[![Languages](https://skillicons.dev/icons?i=java,cpp,python&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -11,4 +13,4 @@ Passionate about coding, open-source, and reverse engineering.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=literallyawildhog&layout=compact&theme=radical&hide=html,css)
 
-[![Languages](https://skillicons.dev/icons?i=java,cpp&theme=dark)](https://skillicons.dev)
+
