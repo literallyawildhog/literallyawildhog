@@ -1,4 +1,4 @@
-## Hi there, I'm literallyawildhog 👋
+## Hi there, I'm literallyawildhog or wildhog👋
 
 Passionate about coding, open-source, and reverse engineering.
 
