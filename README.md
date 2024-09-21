@@ -2,7 +2,7 @@
 
 Passionate about coding, open-source, and reverse engineering.
 
-- 🔭 Current: Alysse
+- 🔭 Current Project: AndroidCore, Alysse
 - 🌱 Learning: C++, Reverse Engineering
 
 ---
